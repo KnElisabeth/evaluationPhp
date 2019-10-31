@@ -1,0 +1,2 @@
+pseudo: admin
+pass :istrateur
